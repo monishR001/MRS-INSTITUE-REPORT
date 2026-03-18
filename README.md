@@ -50,6 +50,7 @@ Create a Students Enrollment Dashboard in Power BI to track key business metrics
 
 ##  **📌Dashboard**
 
-<img width="1299" height="735" alt="Students Enrollment Dashboard" src="C:\Users\Monish.R\Pictures\Screenshots\Students Enrollment Dashboard.png" />
+<img width="1329" height="737" alt="Students Enrollment Dashboard" src="https://github.com/user-attachments/assets/046ef60d-7a94-4e2d-8725-cf5b14ba35de" />
+
 
 
