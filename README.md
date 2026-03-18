@@ -14,6 +14,6 @@ Create a Students Enrollment Dashboard in Power BI to track key business metrics
 
 ##  **📌 DataSet used**
 
--  <a href ="https://github.com/monishR001/Data-Analysis-Dashboard/blob/main/Sales_Data_10K.xlsx">Dataset</a>
+-  <a href ="https://github.com/monishR001/MRS-INSTITUE-REPORT/blob/main/Student%20Personal%20Details.xlsx">Dataset</a>
 
 
